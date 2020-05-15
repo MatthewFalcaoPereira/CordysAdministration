@@ -1,0 +1,12 @@
+D:\Visual Studio Projects\CordysAdministration\bin\Debug\CordysAdministration.exe.config
+D:\Visual Studio Projects\CordysAdministration\bin\Debug\CordysAdministration.exe
+D:\Visual Studio Projects\CordysAdministration\bin\Debug\CordysAdministration.pdb
+D:\Visual Studio Projects\CordysAdministration\bin\Debug\System.Data.SqlClient.dll
+D:\Visual Studio Projects\CordysAdministration\bin\Debug\System.Data.SqlClient.xml
+D:\Visual Studio Projects\CordysAdministration\obj\Debug\CordysAdministration.Form1.resources
+D:\Visual Studio Projects\CordysAdministration\obj\Debug\CordysAdministration.Properties.Resources.resources
+D:\Visual Studio Projects\CordysAdministration\obj\Debug\CordysAdministration.csproj.GenerateResource.cache
+D:\Visual Studio Projects\CordysAdministration\obj\Debug\CordysAdministration.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CordysAdministration\obj\Debug\CordysAdministration.csproj.CopyComplete
+D:\Visual Studio Projects\CordysAdministration\obj\Debug\CordysAdministration.exe
+D:\Visual Studio Projects\CordysAdministration\obj\Debug\CordysAdministration.pdb
